@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica03_Fabian-22110092</string>
+    <string name="nombre_negocio">Steam</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+    <string name="productos_ofrecidos">
+    Consolas de videojuegos.
+    \n\n
+    Videojuegos.
+    \n\n
+    Accesorios de juego.
+    \n\n
+    Tarjetas de regalo.
+    \n\n
+    xd.
+</string>
+</resources>
